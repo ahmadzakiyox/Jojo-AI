@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4)" alt="Demo Jojo AI" width="600">
+  <img src="[adad(https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4)]" alt="Demo Jojo AI" width="600">
 </p>
 
 ---
