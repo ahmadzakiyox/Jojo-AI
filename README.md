@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPLv3 License"></a>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white" alt="Python 3.9+"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11%2B-blue.svg?logo=python&logoColor=white" alt="Python 3.11"></a>
   <a href="https://github.com/ahmadzakiyox/Jojo-AI/releases"><img src="https://img.shields.io/badge/Release-v1.0-brightgreen.svg" alt="Release v1.0"></a>
   <a href="https://github.com/ahmadzakiyox/Jojo-AI/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg" alt="Contributions Welcome"></a>
 </p>
