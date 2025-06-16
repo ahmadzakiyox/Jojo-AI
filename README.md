@@ -3,18 +3,26 @@
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPLv3 License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white" alt="Python 3.9+"></a>
-  <a href="https://github.com/[NamaPenggunaAnda]/[NamaRepoAnda]/releases"><img src="https://img.shields.io/badge/Release-v1.0-brightgreen.svg" alt="Release v1.0"></a>
-  <a href="https://github.com/[NamaPenggunaAnda]/[NamaRepoAnda]/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg" alt="Contributions Welcome"></a>
+  <a href="https://github.com/ahmadzakiyox/Jojo-AI/releases"><img src="https://img.shields.io/badge/Release-v1.0-brightgreen.svg" alt="Release v1.0"></a>
+  <a href="https://github.com/ahmadzakiyox/Jojo-AI/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg" alt="Contributions Welcome"></a>
 </p>
 
 <p align="center">
   Sebuah asisten virtual multifungsi berbasis Python yang dapat berinteraksi melalui suara dan gestur tangan, ditenagai oleh kecerdasan buatan dari Google Gemini.
 </p>
 
+---
+### 🎬 Video Demo
+
 <p align="center">
-  <img src="[adad(https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4)]" alt="Demo Jojo AI" width="600">
+  <a href="https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4" target="_blank">
+    <img src="https://URL_LENGKAP_KE_SCREENSHOT_VIDEO_ANDA.png" alt="Demo Jojo AI" width="720">
+  </a>
+  <br>
+  <em>(Klik gambar di atas untuk melihat video demo lengkap)</em>
 </p>
 
+---
 ---
 
 ## ✨ Fitur Utama
