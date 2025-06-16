@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oMXM1M3E2amVqNTB4dmpldjE1azFnaDJhNHJ1dnpvMnB6bHFuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LgkU51O0s1I4a3J3jA/giphy.gif" alt="Demo Jojo AI" width="600">
+  <img src="(https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4)" alt="Demo Jojo AI" width="600">
 </p>
 
 ---
