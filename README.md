@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmadzakiyox/DB/blob/main/vd.mp4" target="_blank">
-    <img src="[https://github.com/ahmadzakiyox/DB/blob/main/Screenshot%202025-06-16%20091312.png]" alt="Demo Jojo AI" width="720">
+    <img src="[[https://github.com/ahmadzakiyox/DB/blob/main/Screenshot%202025-06-16%20091312.png](https://github.com/ahmadzakiyox/DB/blob/main/Screenshot%202025-06-16%20091312.png)]" alt="Demo Jojo AI" width="720">
   </a>
   <br>
   <em>(Klik gambar di atas untuk melihat video demo lengkap)</em>
