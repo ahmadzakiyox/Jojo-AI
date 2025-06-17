@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPLv3 License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11%2B-blue.svg?logo=python&logoColor=white" alt="Python 3.11"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI.svg?type=shield"/></a>
   <a href="https://github.com/ahmadzakiyox/Jojo-AI/releases"><img src="https://img.shields.io/badge/Release-v1.0-brightgreen.svg" alt="Release v1.0"></a>
   <a href="https://github.com/ahmadzakiyox/Jojo-AI/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg" alt="Contributions Welcome"></a>
 </p>
@@ -12,6 +13,9 @@
 </p>
 
 ---
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI?ref=badge_large)
+
 ### 🎬 Video Demo
 
 <p align="center">
