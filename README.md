@@ -103,4 +103,4 @@ Beberapa contoh perintah:
 
 Proyek ini dilisensikan di bawah **GNU General Public License v3.0**. Lisensi ini memastikan bahwa Jojo AI dan semua turunannya akan selalu tetap menjadi perangkat lunak bebas dan terbuka. Lihat file [LICENSE](LICENSE) untuk detail lengkapnya.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI?ref=badge_shield&issueType=security)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fahmadzakiyox%2FJojo-AI?ref=badge_large&issueType=license)
