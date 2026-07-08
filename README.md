@@ -56,8 +56,8 @@ Untuk menjalankan Jojo AI di komputer Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[NamaPenggunaAnda]/[NamaRepoAnda].git
-    cd [NamaRepoAnda]
+    git clone https://github.com/ahmadzakiyox/Jojo-AI
+    cd Jojo-AI
     ```
 
 2.  **Buat Virtual Environment (Direkomendasikan):**
