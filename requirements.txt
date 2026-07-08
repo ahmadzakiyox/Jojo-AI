@@ -1,0 +1,13 @@
+SpeechRecognition
+pyaudio
+gTTS
+playsound==1.2.2
+colorama
+pyfiglet
+opencv-python
+mediapipe==0.10.14
+PyAutoGUI
+numpy
+wikipedia
+google-generativeai
+python-dotenv
