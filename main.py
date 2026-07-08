@@ -6,10 +6,11 @@ import cv2
 import os
 import datetime
 
+import speech_recognition as sr
 # Impor fungsi-fungsi spesifik dari modul-modul kita
 from modules.utils import log_message, display_welcome_banner
 from modules.voice import speak, listen_command, wish_me
-from modules.ai_brain import get_command_intent, handle_conversation
+from modules.ai_brain import get_command_intent, handle_conversation, init_chat_session
 from modules.tasks import task_dispatcher
 from modules.gesture_control import run_gesture_mode
 
@@ -19,6 +20,22 @@ def main():
     program_is_running = True
     cap = None
     
+    # Inisialisasi memori chat session
+    init_chat_session()
+    
+    # Baca indeks mic dari .env jika diatur
+    mic_index_env = os.getenv("MIC_INDEX")
+    mic_index = int(mic_index_env) if mic_index_env else None
+    
+    # Inisialisasi Recognizer & kalibrasi noise sekali di awal untuk performa cepat
+    r = sr.Recognizer()
+    log_message("system", f"Kalibrasi kebisingan (Mic Index: {mic_index if mic_index is not None else 'Default'})...")
+    try:
+        with sr.Microphone(device_index=mic_index) as source:
+            r.adjust_for_ambient_noise(source, duration=1)
+    except Exception as e:
+        log_message("system", f"Gagal kalibrasi mikrofon: {e}")
+        
     wish_me()
 
     try:
@@ -30,7 +47,7 @@ def main():
                     cv2.destroyAllWindows()
                     log_message("system", "Kamera dinonaktifkan.")
                 
-                command = listen_command()
+                command = listen_command(r)
                 if command == 'none':
                     continue
 
